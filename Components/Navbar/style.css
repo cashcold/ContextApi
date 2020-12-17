@@ -1,0 +1,27 @@
+.navbarMain{
+    width: 100%;
+    height: 10vh;
+    background-color: sandybrown;
+    color: white;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    align-items: center;
+}
+
+/* movies: [
+    {
+        id: 17783,
+        name: 'The Throw Of Earth',
+        price: "$50"
+    },
+    {
+        id: 6981,
+        name: 'The Return Of The Earth',
+        price: "$100"
+    },
+    {
+        id: 7711,
+        name: 'The Secruty of  Success ',
+        price: "$150"
+    },
+] */
